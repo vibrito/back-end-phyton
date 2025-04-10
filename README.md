@@ -15,7 +15,7 @@
 <br />
 Esta é uma API RESTful feita com Flask, que permite gerenciar um menu de drinks. A documentação da API é gerada automaticamente com Swagger usando o Flask-RESTX.
 <br />
----
+
 <br />
 ## Tecnologias utilizadas
 <br />
@@ -26,7 +26,7 @@ Esta é uma API RESTful feita com Flask, que permite gerenciar um menu de drinks
 - Flask-SQLAlchemy
 - SQLite (banco local)
 <br />
----
+
 <br />
 ## Ferramentas usadas:<br />
 PyCharm<br />
@@ -35,6 +35,7 @@ Safari<br />
 Medium e Stackoverflow para consulta<br />
 <br />
 
+<br />
 ## Como executar<br />
 <br />
 Primeiro faça o download do projeto e abra ele.<br />
