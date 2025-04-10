@@ -15,7 +15,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db.init_app(app)
 
 # Iniciando o Flask RESTX + Swagger
-api = Api(app, doc='/swagger', title='API de Drinks', description='CRUD de Drinks com Flask-RESTX')
+api = Api(app, doc='/swagger', title='API de Drinks', description='Menu de drinks')
 
 # Modelo Swagger
 drink_model = api.model('Drink', {
