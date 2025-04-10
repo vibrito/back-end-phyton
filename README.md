@@ -4,7 +4,7 @@
 <br />
 *Pontifícia Universidade Católica do Rio de Janeiro*<br />
 <br />
-*Back-end do trabalho do curso de Engenharia de software*<br />
+*Back-end do trabalho do curso de Engenharia de Software*<br />
 <br />
 *Aluno: Vinicius do Carmo Brito*<br />
 ---
