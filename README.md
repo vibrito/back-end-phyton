@@ -1,26 +1,17 @@
-# Back-end
-
-**Desenvolvimento Full Stack Básico**
-*Back-end do trabalho final do curso de Engenharia de software*
-*Aluno: Vinicius do Carmo Brito*
-
-## Como executar
-
 # Front-end
 
-**Desenvolvimento Full Stack Básico**
-*Back-end do trabalho final do curso de Engenharia de software*
-*Aluno: Vinicius do Carmo Brito*
+**Desenvolvimento Full Stack Básico**__
+*Back-end do trabalho final do curso de Engenharia de software*__
+*Aluno: Vinicius do Carmo Brito*__
 ---
 
-## Ferramentas usadas:
-PyCharm
-Postman
-Safari
-Medium e Stackoverflow para consulta
+## Ferramentas usadas:__
+PyCharm__
+Postman__
+Safari__
+Medium e Stackoverflow para consulta__
 
 
-## Como executar
+## Como executar__
 
-Basta fazer o download do projeto e abrir o arquivo index.html no seu browser.
 
