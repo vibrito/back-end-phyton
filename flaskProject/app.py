@@ -1,8 +1,11 @@
 from flask import Flask, request
 from flask_restx import Api, Resource, fields
+from flask_cors import (CORS)
+
 from models import db, Drink
 
 app = Flask(__name__)
+CORS(app)
 
 # Configuração do banco de dados
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///drinks.db'
