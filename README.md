@@ -1,8 +1,10 @@
-# Front-end
+# Back-end
 
 **Desenvolvimento Full Stack Básico**<br />
 <br />
-*Back-end do trabalho final do curso de Engenharia de software*<br />
+*Pontifícia Universidade Católica do Rio de Janeiro*
+<br />
+*Back-end do trabalho do curso de Engenharia de software*<br />
 <br />
 *Aluno: Vinicius do Carmo Brito*<br />
 ---
