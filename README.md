@@ -17,5 +17,6 @@ Medium e Stackoverflow para consulta<br />
 <br />
 
 ## Como executar<br />
-
+<br />
+Primeiro faça o download do projeto e abra ele.<br />
 
