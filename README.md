@@ -2,7 +2,7 @@
 
 **Desenvolvimento Full Stack Básico**<br />
 <br />
-*Pontifícia Universidade Católica do Rio de Janeiro*
+*Pontifícia Universidade Católica do Rio de Janeiro*<br />
 <br />
 *Back-end do trabalho do curso de Engenharia de software*<br />
 <br />
