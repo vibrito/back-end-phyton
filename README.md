@@ -55,7 +55,11 @@ source .venv/bin/activate -> ativa o ambiente virtual
 <br />
 python app.py -> roda a aplicação<br />
 <br />
+
+<br />
 OU 
+<br />
+
 <br />
 Para instalar as dependencias com o comando: pip install -r requirements.txt <br />
 Execute o arquivo app.py em uma IDE como o PyCharm <br />
