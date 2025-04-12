@@ -38,9 +38,21 @@ Medium e Stackoverflow para consulta<br />
 <br />
 ## Como executar<br />
 <br />
-Primeiro faça o download do projeto e abra ele.<br />
-
-Instale as dependencias com o comando: pip install -r requirements.txt <br />
-
-Execute o arquivo app.py <br />
+Primeiro precisamos instalar o pyenv
+https://github.com/pyenv/pyenv
+<br />
+No link acima, exitem as instruções para cada sistema operacional.
+<br />
+Após a instalação com sucesso, precisa criar um ambiente virtual para rodar o python e suas dependências em versões específicas:
+<br />
+pyenv install 3.12.3 -> instala o python na versão 3.12.3
+pyenv local 3.12.3   -> seta a versão que a aplicação deve usar
+python3 -m venv .venv -> cria o ambiente virtual, ou seja, as dependências serão instaladas dentro do diretório .venv ao invés de instalar no diretório do pip no sistema operacional
+source .venv/bin/activate -> ativa o ambiente virtual
+python app.py -> roda a aplicação<br />
+<br />
+OU 
+<br />
+Para instalar as dependencias com o comando: pip install -r requirements.txt <br />
+Execute o arquivo app.py em uma IDE como o PyCharm <br />
 
