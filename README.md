@@ -46,9 +46,13 @@ No link acima, exitem as instruções para cada sistema operacional.
 Após a instalação com sucesso, precisa criar um ambiente virtual para rodar o python e suas dependências em versões específicas:
 <br />
 pyenv install 3.12.3 -> instala o python na versão 3.12.3
+<br />
 pyenv local 3.12.3   -> seta a versão que a aplicação deve usar
+<br />
 python3 -m venv .venv -> cria o ambiente virtual, ou seja, as dependências serão instaladas dentro do diretório .venv ao invés de instalar no diretório do pip no sistema operacional
+<br />
 source .venv/bin/activate -> ativa o ambiente virtual
+<br />
 python app.py -> roda a aplicação<br />
 <br />
 OU 
